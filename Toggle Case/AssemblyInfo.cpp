@@ -11,12 +11,12 @@ using namespace System::Security::Permissions;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 //
-[assembly:AssemblyTitleAttribute("ToggleCase")];
+[assembly:AssemblyTitleAttribute("Toggle Case")];
 [assembly:AssemblyDescriptionAttribute("")];
 [assembly:AssemblyConfigurationAttribute("")];
-[assembly:AssemblyCompanyAttribute("")];
-[assembly:AssemblyProductAttribute("ToggleCase")];
-[assembly:AssemblyCopyrightAttribute("Copyright (c)  2012")];
+[assembly:AssemblyCompanyAttribute("The Dark Side")];
+[assembly:AssemblyProductAttribute("Toggle Case")];
+[assembly:AssemblyCopyrightAttribute("Copyright (c) The Dark Side 2008")];
 [assembly:AssemblyTrademarkAttribute("")];
 [assembly:AssemblyCultureAttribute("")];
 

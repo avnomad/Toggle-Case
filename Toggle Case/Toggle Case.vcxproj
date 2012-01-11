@@ -92,6 +92,7 @@
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Create</PrecompiledHeader>
     </ClCompile>
     <ClCompile Include="Toggle Case.cpp" />
+    <ClCompile Include="toggleCase.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Form1.h">
@@ -99,6 +100,7 @@
     </ClInclude>
     <ClInclude Include="resource.h" />
     <ClInclude Include="stdafx.h" />
+    <ClInclude Include="toggleCase.h" />
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="app.rc" />
