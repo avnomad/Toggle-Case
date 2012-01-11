@@ -3,7 +3,7 @@
 #include "stdafx.h"
 #include "Form1.h"
 
-using namespace SwitchCase;
+using namespace ToggleCase;
 
 [STAThreadAttribute]
 int main(array<System::String ^> ^args)

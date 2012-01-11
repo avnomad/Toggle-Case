@@ -1,0 +1,8 @@
+syntax: regexp
+Debug/*
+Release/*
+ipch/*
+syntax: glob
+Toggle Case.opensdf
+Toggle Case.sdf
+Toggle Case.suo
