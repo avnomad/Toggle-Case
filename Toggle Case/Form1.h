@@ -1,7 +1,7 @@
 #pragma once
 
 
-namespace SwitchCase {
+namespace ToggleCase {
 
 	using namespace System;
 	using namespace System::ComponentModel;
