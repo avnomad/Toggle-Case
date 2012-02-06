@@ -150,7 +150,7 @@ namespace ToggleCase {
 			// 
 			this->AutoScaleDimensions = System::Drawing::SizeF(6, 13);
 			this->AutoScaleMode = System::Windows::Forms::AutoScaleMode::Font;
-			this->ClientSize = System::Drawing::Size(312, 93);
+			this->ClientSize = System::Drawing::Size(312, 84);
 			this->Controls->Add(this->lowerButton);
 			this->Controls->Add(this->upperButton);
 			this->Controls->Add(this->toggleButton);
@@ -160,8 +160,8 @@ namespace ToggleCase {
 			this->Controls->Add(this->originalLabel);
 			this->DoubleBuffered = true;
 			this->KeyPreview = true;
-			this->MaximumSize = System::Drawing::Size(60000000, 120);
-			this->MinimumSize = System::Drawing::Size(215, 120);
+			this->MaximumSize = System::Drawing::Size(60000000, 122);
+			this->MinimumSize = System::Drawing::Size(215, 122);
 			this->Name = L"Form1";
 			this->StartPosition = System::Windows::Forms::FormStartPosition::CenterScreen;
 			this->Text = L"Toggle Case";
